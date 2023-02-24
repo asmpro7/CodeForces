@@ -1,3 +1,8 @@
+#####################
+### author: asmpy ###
+### problem: 231A ###
+#####################
+
 numPro= int(input())
 numSol=0
 for i in range(numPro):
