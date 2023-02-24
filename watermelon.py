@@ -1,3 +1,8 @@
+#####################
+### author: asmpy ###
+### problem: 4A   ###
+#####################
+
 weight = int(input())
 result = weight % 2
 
