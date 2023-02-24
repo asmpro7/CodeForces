@@ -1,3 +1,8 @@
+#####################
+### author: asmpy ###
+### problem: 282A ###
+#####################
+
 num=int(input())
 x=0
 for i in range(num):
