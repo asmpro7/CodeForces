@@ -1,6 +1,6 @@
 #####################
 ### author: asmpy ###
-### problem: 4A   ###
+### problem: 4A   ##
 #####################
 
 weight = int(input())
