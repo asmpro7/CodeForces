@@ -1,3 +1,8 @@
+#####################
+### author: asmpy ###
+### problem: 71A  ###
+#####################
+
 numTry=int(input())
 for i in range(numTry):
     word = input()
