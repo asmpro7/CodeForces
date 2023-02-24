@@ -1,3 +1,8 @@
+#####################
+### author: asmpy ###
+### problem: 50A  ###
+#####################
+
 from math import floor
 lenth=input().split()
 size = int(lenth[0])*int(lenth[1])
