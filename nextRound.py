@@ -1,3 +1,8 @@
+#####################
+### author: asmpy ###
+### problem: 158A ###
+#####################
+
 participants=input().split()
 scores=input().split()
 winers=0
